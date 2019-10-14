@@ -1,0 +1,27 @@
+.box {
+    width: 300px;
+    /* height: 300px; */
+    flex: 1;
+    padding: 20;
+}
+
+.container {
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.viridian {
+    background-color: #40826d;
+}
+
+.cobalt {
+    background-color: rgb(0, 71, 171);
+    color: white;
+}
+
+.crimson {
+    background-color: #dc143c;
+}
